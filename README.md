@@ -1,5 +1,7 @@
 # LessFramework-rails
 
+[![Build Status](http://travis-ci.org/aslamnd/lessframework-rails.png)](http://travis-ci.org/aslamnd/lessframework-rails)
+
 Less Framework is a CSS grid system for designing adaptive web-sites. It
 contains 4 layouts and 3 set of typography presets, all based on a
 single grid.
